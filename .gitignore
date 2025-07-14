@@ -1,0 +1,20 @@
+# .NET
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Others
+.env
+.idea/
+.DS_Store
+
+# Node (varsa gelecekte)
+node_modules/
